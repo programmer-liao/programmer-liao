@@ -12,6 +12,19 @@ Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/Redis-6366F1?style=flat-square&logo=Redis&logoColor=DC382C)
 ![Static Badge](https://img.shields.io/badge/RocketMQ-068D9D?style=flat-square&logo=apacherocketmq&logoColor=F56200)
 ![Static Badge](https://img.shields.io/badge/Kafka-F6F6F6?style=flat-square&logo=apachekafka&logoColor=000000)
+
 ![Static Badge](https://img.shields.io/badge/ElasticSearch-343741?style=flat-square&logo=elasticsearch&logoColor=00BFB3)
 ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-088BF8?style=flat-square&logo=intellijidea&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/Maven-8A2978?style=flat-square&logo=apachemaven&logoColor=F79A24)
+![Static Badge](https://img.shields.io/badge/Gradle-2F545D?style=flat-square&logo=gradle&logoColor=02303A)
+![Static Badge](https://img.shields.io/badge/Git-F1F1E9?style=flat-square&logo=git&logoColor=F44D27)
+
+![Static Badge](https://img.shields.io/badge/Kubernetes-C9E9EC?style=flat-square&logo=kubernetes&logoColor=306ADF)
+![Static Badge](https://img.shields.io/badge/MyBatis-CB0000?style=flat-square)
+![Static Badge](https://img.shields.io/badge/MyBatis--Plus-1E90FF?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Netty-67717E?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Zookeeper-66914F?style=flat-square)
+
+
+
 
