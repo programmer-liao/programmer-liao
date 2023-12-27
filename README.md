@@ -33,7 +33,7 @@
 ![Static Badge](https://img.shields.io/badge/Dubbo-835BE3?style=flat-square)
 
 ### My GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=programmer-liao&show_icons=true&theme=radical">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=programmer-liao&show_icons=true&theme=highcontrast">
 
 
 
