@@ -25,6 +25,9 @@ Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/Netty-67717E?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Zookeeper-66914F?style=flat-square)
 
+![Static Badge](https://img.shields.io/badge/Windows-D2E1EC?style=flat-square&logo=windows11&logoColor=067FD7)
+![Static Badge](https://img.shields.io/badge/MongoDB-023430?style=flat-square&logo=mongodb&logoColor=00ED64)
+
 
 
 
